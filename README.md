@@ -1,7 +1,16 @@
-# Marxism-Leninism
+## Марксистский кружок
 
-ВЕКТОР Действовать сообразно форме и мере человечества
+# ВЕКТОР 
+
+### диамат политэкономия истмат
+
+
+### Контакты
 
 [VK](https://vk.com/redvector)
 [YouTube](https://www.youtube.com/c/ВЕКТОР_КРАСНЫЙ)
-[telegram](https://t.me/vector_comrade)
+[boosty](https://boosty.to/redvector)
+
+[![telegram](https://img.shields.io/badge/-telegram-<COLOR>?style=plastic&logo=telegram)](https://t.me/vector_comrade)
+
+---
