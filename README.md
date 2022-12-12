@@ -33,6 +33,9 @@
 [[13) МИР-СИСТЕМНЫЙ АНАЛИЗ]]
 
 ---
+шаблоны для удобства подготовки [[вопросы для обсуждения (шаблон)|вопросов]] и формированию [[материал занятия (шаблон)|занятий]]
+
+---
 ### Контакты
 
 [VK](https://vk.com/redvector)
@@ -42,3 +45,4 @@
 [![telegram](https://img.shields.io/badge/-telegram-<COLOR>?style=plastic&logo=telegram)](https://t.me/vector_comrade)
 
 ---
+
