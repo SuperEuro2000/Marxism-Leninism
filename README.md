@@ -42,4 +42,3 @@
 [![telegram](https://img.shields.io/badge/-telegram-<COLOR>?style=plastic&logo=telegram)](https://t.me/vector_comrade)
 
 ---
-![[QR-codes(social-links).png]]
