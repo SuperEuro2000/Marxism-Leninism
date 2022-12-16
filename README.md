@@ -47,5 +47,8 @@
 
 ---
 
+![](https://github.com/SuperEuro2000/Marxism-Leninism/blob/main/files/demo.gif)
+
+
 ![[demo.gif]]
 
